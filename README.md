@@ -46,18 +46,19 @@ Student Companion is an app that has many features that are useful for students 
 ## (3) Movie Mania
 > I created this app to learn about ROOM database and how to use API to fetch data. I created this app while I was learning android development from Udacity. This app is not maintained now. Feel free to checkout the source code and fork it and update it to your liking.
 
-Movie Mania is an app that is created with purpose of entertainment in mind, It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
-Movie Mania is an app that is created with purpose of entertainment in mind, It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
+- Movie Mania is an app that is created with purpose of entertainment in mind.
+- It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
+
 
 [GDACapstoneDsetOrg]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
 [GDACapstoneDsetClnd]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
 [GDACapstoneViz]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
 [GDACapstonePPT]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 [GDACapstoneRpt]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-[GDACapstoneArt]: https://medium.com/@pranav.vyas.99/a-beginners-guide-to-google-data-analytics-capstone-project-how-does-a-bike-share-navigate-speedy-f4a04f701d4a
-[MovieManaiaGitHubLink] : <>
-[ProfileGithub]: <>
-[ProfileLinkedIn]: <>
-[ProfileGmail]: <>
-[ProfileKaggle]: <>
-[ProfileMedium]: <>
+[GDACapstoneArt]: <https://medium.com/@pranav.vyas.99/a-beginners-guide-to-google-data-analytics-capstone-project-how-does-a-bike-share-navigate-speedy-f4a04f701d4a>
+[MovieManaiaGitHubLink]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[ProfileGithub]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[ProfileLinkedIn]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[ProfileGmail]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[ProfileKaggle]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[ProfileMedium]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
