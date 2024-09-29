@@ -2,7 +2,7 @@
 
 ## (1) Google Data Analytics Capstone Project
 
-[![Click here for article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pranav.vyas.99)
+[![Click here for article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][GDACapstoneArt]
 
 ### Overview
 
@@ -55,5 +55,9 @@ Movie Mania is an app that is created with purpose of entertainment in mind, It 
 [GDACapstonePPT]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 [GDACapstoneRpt]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
 [GDACapstoneArt]: https://medium.com/@pranav.vyas.99/a-beginners-guide-to-google-data-analytics-capstone-project-how-does-a-bike-share-navigate-speedy-f4a04f701d4a
-[MovieManaiaGitHubLink]
-   
+[MovieManaiaGitHubLink] : <>
+[ProfileGithub]: <>
+[ProfileLinkedIn]: <>
+[ProfileGmail]: <>
+[ProfileKaggle]: <>
+[ProfileMedium]: <>
