@@ -1,16 +1,13 @@
 # Projects
-## _The Last Markdown Editor, Ever_
-
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 ## (1) Google Data Analytics Capstone Project
 
-[![Click here](https://github.com/PranavVyas/portfolio/blob/main/icons_web/icons8-medium-16.png)](https://medium.com/@pranav.vyas.99/a-beginners-guide-to-google-data-analytics-capstone-project-how-does-a-bike-share-navigate-speedy-f4a04f701d4a)
+[![Click here for article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@pranav.vyas.99)
 
 ### Overview
 
 - Completed a capstone project for Cyclistic bike-share company, analyzing user data.
-Focused on understanding differences between casual riders and annual members.
+- Focused on understanding differences between casual riders and annual members.
 - Used SQL, BigQuery, and PowerBI for data cleaning, analysis, and visualization.
 - Identified patterns in rider behavior, such as ride times and locations.
 - Provided actionable marketing recommendations to increase annual memberships.
@@ -19,11 +16,12 @@ Focused on understanding differences between casual riders and annual members.
 
 | Sr No | Resource Name | Download Link |
 | ------ | ------ | ------ |
-| 1 | Datasets | [Click here][PlDb] |
-| 2 | Cleaned Dataset | [Click here][PlGh] |
-| 3 | PowerBI file | [Click here][PlGd] |
-| 4 | Microsoft PPT | [Click here][PlOd] |
-| 5 | Report PDF | [Click here][PlMe] |
+| 1 | Datasets | [Click here][GDACapstoneDsetOrg] |
+| 2 | Cleaned Dataset | [Click here][GDACapstoneDsetClnd] |
+| 3 | PowerBI file | [Click here][GDACapstoneViz] |
+| 4 | Microsoft PPT | [Click here][GDACapstonePPT] |
+| 5 | Report PDF | [Click here][GDACapstoneRpt] |
+| 6 | Explaination Article | [Click here][GDACapstoneArt] |
 
 ## (2) Student Companion Android App
 
@@ -42,26 +40,20 @@ Student Companion is an app that has many features that are useful for students 
 - **The Notification Manager** 
     - Notification Manager will warn the user if attendance goes lower or if there is an interesting event going on in college!
 
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-vyas-5a435b209/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavVyas)
 
-   [dill]: <https://github.com/joemccann/dillinger>
-   [git-repo-url]: <https://github.com/joemccann/dillinger.git>
-   [john gruber]: <http://daringfireball.net>
-   [markdown-it]: <https://github.com/markdown-it/markdown-it>
-   [Ace Editor]: <http://ace.ajax.org>
-   [node.js]: <http://nodejs.org>
-   [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
-   [jQuery]: <http://jquery.com>
-   [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
-   [express]: <http://expressjs.com>
-   [AngularJS]: <http://angularjs.org>
-   [Gulp]: <http://gulpjs.com>
+## (3) Movie Mania
+> I created this app to learn about ROOM database and how to use API to fetch data. I created this app while I was learning android development from Udacity. This app is not maintained now. Feel free to checkout the source code and fork it and update it to your liking.
 
-   [PlDb]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-   [PlGh]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-   [PlGd]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-   [PlOd]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-   [PlMe]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-   [PlGa]: <https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md>
+Movie Mania is an app that is created with purpose of entertainment in mind, It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
+Movie Mania is an app that is created with purpose of entertainment in mind, It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
+
+[GDACapstoneDsetOrg]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
+[GDACapstoneDsetClnd]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
+[GDACapstoneViz]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
+[GDACapstonePPT]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[GDACapstoneRpt]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
+[GDACapstoneArt]: https://medium.com/@pranav.vyas.99/a-beginners-guide-to-google-data-analytics-capstone-project-how-does-a-bike-share-navigate-speedy-f4a04f701d4a
+[MovieManaiaGitHubLink]
    
-
