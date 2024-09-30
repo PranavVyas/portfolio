@@ -31,6 +31,9 @@ Student Companion is an app that has many features that are useful for students 
 ### Features
 - **Attendance Manager**
     - Manages attendance and reminds you to fill attendance, This can be useful to see the regularity of student or in some colleges with minimum attendance criteria.
+    - Overall attendace summary can be seen for each subject by going to Overall Attendance Manager
+- **Smart attendance**
+    - Marks attendance based on geo location of phone, If phone is in the location provided for classes, automatically attendance is marked. 
 - **NoteManager** 
     - Notes can be taken easily and later be edited or removed as per convenience by Note Manager. 
 - **Market place** 
@@ -39,16 +42,70 @@ Student Companion is an app that has many features that are useful for students 
     - This feature ensures that the student has enough material to study if they can not afford books they should use the digital versions.
 - **The Notification Manager** 
     - Notification Manager will warn the user if attendance goes lower or if there is an interesting event going on in college!
+- **Today's lecture Widget**
+    - The widget provided with the app removes the headache of remembering the lectures by providing the lecture of that days right on the home screen. The widget will update at the midnight (around 12:00 AM) so it makes sure that you only see the latest day's timetable and also don't consume battery by frequently updating itself
+- **Dark Theme (Available only in Paid Version)**
+    - By Enabling the dark mode in the settings page you can use dark mode. Why us there Dark Mode ? Well It saves some battery on AMOLED Screens and main reason is It looks Cool 
+- **Timetable & Holidays**
+    - It is very easy to see time table of the whole week in the app. Just touch the hamburger menu (3 horizontal lines at top left corner) or swipe from left edge to right to open Navigation menu and than select timetable and you can see the timetable and select the holidays to see the holidays and details about holidays
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-vyas-5a435b209/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PranavVyas)
+## (3) Student Companion Android App (MVVM Based Version)
 
-## (3) Movie Mania
-> I created this app to learn about ROOM database and how to use API to fetch data. I created this app while I was learning android development from Udacity. This app is not maintained now. Feel free to checkout the source code and fork it and update it to your liking.
+- Same as "Student Companion Android App" but built from ground up using Room Library and use of ViewModel Library to handle android life cycle data transitions
+
+> This project is not maintained now, This was made as part of learning and development for MVVM architecture
+
+## (4) Movie Mania
+> I created this app to learn about Room database and how to use API to fetch data. I created this app while I was learning android development from Udacity. This app is not maintained now. Feel free to checkout the source code and fork it and update it to your liking.
 
 - Movie Mania is an app that is created with purpose of entertainment in mind.
 - It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
 
+### (5) XYZ Reader
+
+> XYZ is a project done under Udacity Nanodegree Projects and redesigned app from the original app given by Udacity in the Nanodegree
+
+- XYZ reader is feed reader app that uses Material Design Guidelines and new material design components for better UX to show very big articles at once in the app.
+- The app is optimized by using recycler view to load text, in this way app stays efficient in memory and shows very big articles at once.
+- The recycler view does not load all the items at once but recycles the item holders and caches them for further use, in this way the app uses very low memory (compared to normal list view or single text view) to load three articles each being more than 1000 lines from the internet!
+
+## (6) EasyEdu
+
+> EasyEdu is app made in DotSlash 2.0 hackathon. We were two people team (**Team[0]** - Pranav Vyas, Tirth Patel), I focused on coding and my partner in creating visuals, wireframes etc. We made this app in 26 hours, so this might be looking like unfinished app, but functionally this is working fully
+
+Problem Statement: 
+- The country has always been striving to get education to the commons in the most lucrative way possible. Educational resources and measures to improve its discourse comes under the category.
+
+Solution:
+- A platform for University Students to share Documents such as Exam Papers and Study Material.
+- Users can Upload/Download Documents shared by Users.
+- Users can follow subjects, semesters and branches to receive updates when a new document is uploaded for that subject/semester/branch.
+- Users can schedule reminders to downloads documents.
+
+## (7) My Cook Book
+
+> My Cook Book is a project done under Udacity Nanodegree Projects. This project is not maitained by me anymore.
+
+- My Cookbook is an android app to demonstrate the extraction of information from JSON file located in cloud and handling of various cases like unavailability of full information
+- App also uses the ExoPlayer to buffer and show online video content to user with media controls that can be controlled by the various connected device like earphones, Bluetooth devices etc
+- My Cookbook shows off some of the useful features like PIP Mode, Automatically Full Screen while in landscape mode
+
+## (8) Other Apps build during Udacity Android Developer Nanodegree
+
+## (9) Tic Tac Toe for Andoid
+
+## (10) ProHotspot v2
+
+## (11) Tic Tac Toe (Java GUI Version)
+
+>This is my first app made in Java for practising and learning concepts. I used GUI elements for making this app
+
+- Tic Tac Toe is a game which is played by two players, which is a very old game and here it is my best try to create the same game in Java language!!
+
+## (12) Tic Tac Toe (C Language Version)
+> This is my first every venture to programming and making "app" from coding
+
+- Tic Tac Toe is a game which is played by two players, which is a very old game and here it is my best try to create the same game in Java as well as C language!!
 
 [GDACapstoneDsetOrg]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
 [GDACapstoneDsetClnd]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
@@ -62,3 +119,4 @@ Student Companion is an app that has many features that are useful for students 
 [ProfileGmail]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 [ProfileKaggle]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 [ProfileMedium]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[StudentCompanionWikiLink]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
