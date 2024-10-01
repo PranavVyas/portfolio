@@ -64,6 +64,15 @@ Student Companion is an app that has many features that are useful for students 
 ### Screenshots
 
 
+| Student Companion |
+| ------ |
+| ![StudentC1](assets/img/student_comp_1.png) |
+| ![StudentC2](assets/img/student_comp_2.png) |
+| ![StudentC3](assets/img/student_comp_3.png) |
+| ![StudentC4](assets/img/student_comp_4.png) |
+| ![StudentC5](assets/img/student_comp_5.png) |
+
+
 ## (3) Student Companion Android App (MVVM Based Version)
 
 - Same as "Student Companion Android App" but built from ground up using Room Library and use of ViewModel Library to handle android life cycle data transitions
