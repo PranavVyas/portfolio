@@ -143,9 +143,16 @@ Solution:
 
 ## (11) Tic Tac Toe (Java GUI Version)
 
->This is my first app made in Java for practising and learning concepts. I used GUI elements for making this app
+>This is my first app made in Java GUI for practising and learning concepts. I used GUI elements for making this app
 
 - Tic Tac Toe is a game which is played by two players, which is a very old game and here it is my best try to create the same game in Java language!!
+
+### Screenshots
+
+|<p align="center"><img src="assets/img/tic_tac_toe_java_1.png" alt="TTTJ1"></p>|
+| :-----: |
+|<p align="center"><img src="assets/img/tic_tac_toe_java_2.png" alt="TTTJ2"></p>|
+|<p align="center"><img src="assets/img/tic_tac_toe_java_3.png" alt="TTTJ3"></p>|
 
 ## (12) Tic Tac Toe (C Language Version)
 > This is my first every venture to programming and making "app" from coding
@@ -156,9 +163,9 @@ Solution:
 
 | Tic Tac Toe (C) |
 | ------ |
-| ![TTTC1](assets/img/tic_tac_toe_c_1.png) |
+| ![TTTC1](assets/img/tic_tac_toe_c_3.png) |
 | ![TTTC2](assets/img/tic_tac_toe_c_2.png) |
-| ![TTTC3](assets/img/tic_tac_toe_c_3.png) |
+| ![TTTC3](assets/img/tic_tac_toe_c_1.png) |
 
 
 ## (13) PAI
