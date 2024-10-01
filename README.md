@@ -15,6 +15,7 @@
 - Final insights aimed at helping the marketing team optimize campaigns and boost conversion rates.
 
 ### Screenshots
+
 Here are some of the visuals created for the project: To read about the project [Click here][GDACapstoneArt]
 
 Monthwise Rider types Graph:
@@ -24,6 +25,7 @@ Weekdaywise Rider types Graph:
 ![GDACapstoneGraph2](assets/img/GDACapstoneGraph2.jpg)
 
 ### Download Links
+
 | Sr No | Resource Name | Download Link |
 | ------ | ------ | ------ |
 | 1 | Datasets | [Click here][GDACapstoneDsetOrg] |
@@ -120,6 +122,7 @@ Solution:
 
 | ![Cookbook1](assets/img/my_cookbook_1.png) | ![Cookbook2](assets/img/my_cookbook_2.png) |![Cookbook3](assets/img/my_cookbook_3.png) |
 | ------ | ------ | ------ |
+| Home Screen | Details Page | Video Page |
 
 ![Cookbook4](assets/img/my_cookbook_4.png)
 
