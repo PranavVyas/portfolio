@@ -14,6 +14,7 @@
 - Emphasized data integrity, ensuring that ~94% of records were error-free after cleaning.
 - Final insights aimed at helping the marketing team optimize campaigns and boost conversion rates.
 
+### Screenshots
 Here are some of the visuals created for the project: To read about the project [Click here][GDACapstoneArt]
 
 Monthwise Rider types Graph:
@@ -22,6 +23,7 @@ Monthwise Rider types Graph:
 Weekdaywise Rider types Graph:
 ![GDACapstoneGraph2](assets/img/GDACapstoneGraph2.jpg)
 
+### Download Links
 | Sr No | Resource Name | Download Link |
 | ------ | ------ | ------ |
 | 1 | Datasets | [Click here][GDACapstoneDsetOrg] |
@@ -57,6 +59,8 @@ Student Companion is an app that has many features that are useful for students 
 - **Timetable & Holidays**
     - It is very easy to see time table of the whole week in the app. Just touch the hamburger menu (3 horizontal lines at top left corner) or swipe from left edge to right to open Navigation menu and than select timetable and you can see the timetable and select the holidays to see the holidays and details about holidays
 
+### Screenshots
+
 
 ## (3) Student Companion Android App (MVVM Based Version)
 
@@ -69,6 +73,8 @@ Student Companion is an app that has many features that are useful for students 
 
 - Movie Mania is an app that is created with purpose of entertainment in mind.
 - It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
+
+### Screenshots
 
 | ![Movie1](assets/img/movie_mania_1.png) | ![Movie2](assets/img/movie_mania_2.png) |
 | ------ | ------ |
@@ -95,6 +101,13 @@ Solution:
 - Users can follow subjects, semesters and branches to receive updates when a new document is uploaded for that subject/semester/branch.
 - Users can schedule reminders to downloads documents.
 
+### Screenshots
+
+| ![EasyEdu1](assets/img/easy_edu_1.png) | ![EasyEdu2](assets/img/easy_edu_2.png) |
+| ------ | ------ |
+|![EasyEdu3](assets/img/easy_edu_3.png) | ![EasyEdu4](assets/img/easy_edu_4.png) |
+|![EasyEdu5](assets/img/easy_edu_5.png) | ![EasyEdu6](assets/img/easy_edu_6.png) |
+
 ## (7) My Cook Book
 
 > My Cook Book is a project done under Udacity Nanodegree Projects. This project is not maitained by me anymore.
@@ -103,11 +116,10 @@ Solution:
 - App also uses the ExoPlayer to buffer and show online video content to user with media controls that can be controlled by the various connected device like earphones, Bluetooth devices etc
 - My Cookbook shows off some of the useful features like PIP Mode, Automatically Full Screen while in landscape mode
 
-![Cookbook1](assets/img/my_cookbook_1.png)
- 
-![Cookbook2](assets/img/my_cookbook_2.png)
+### Screenshots
 
-![Cookbook3](assets/img/my_cookbook_3.png)
+| ![Cookbook1](assets/img/my_cookbook_1.png) | ![Cookbook2](assets/img/my_cookbook_2.png) |![Cookbook3](assets/img/my_cookbook_3.png) |
+| ------ | ------ | ------ |
 
 ![Cookbook4](assets/img/my_cookbook_4.png)
 
