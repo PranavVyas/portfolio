@@ -143,6 +143,15 @@ Solution:
 
 - Tic Tac Toe is a game which is played by two players, which is a very old game and here it is my best try to create the same game in Java as well as C language!!
 
+### Screenshots
+
+| Tic Tac Toe (C) |
+| ------ |
+| ![TTTC1](assets/img/tic_tac_toe_c_1.png) |
+| ![TTTC2](assets/img/tic_tac_toe_c_2.png) |
+| ![TTTC3](assets/img/tic_tac_toe_c_3.png) |
+
+
 ## (13) PAI
 
 > This app was developed when we did not had computer in our house. We had extra curricular classes as Computer subject in my town in my school. I joined these classes and whenever I am doe with teachers assignment, I worked on this project and some other C projects. Please keep in mind that this is written by me back when Computers were not populer in my town and only my school had 10 computers in our whole town. I was just learning the computer languages. I wanted to have orignal program here so I did not changed anything 
@@ -163,6 +172,9 @@ Solution:
 
 ## (14) PKV website
 
+> Pardon me if the graphics looks old but this was made by me in Microsoft App, I don't remeber exctely now. But it was in 2013 when I coded this website in my schools computer in computer classes. There are many things written in this website which might be looking childish, Because it was made by a child who used this thing called computer for 3-4 months in intervals. I wanted to keep this as is so nothing is changed.
+
+This is a HTML file, in which programming is done for with IF ELSE.
 
 [GDACapstoneDsetOrg]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Original>
 [GDACapstoneDsetClnd]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Cleaned>
