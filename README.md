@@ -14,8 +14,13 @@
 - Emphasized data integrity, ensuring that ~94% of records were error-free after cleaning.
 - Final insights aimed at helping the marketing team optimize campaigns and boost conversion rates.
 
-![GDACapstoneGraph1](https://github.com/PranavVyas/portfolio/tree/main/assets/img/GDACapstoneGtaph1.jpg)
+Here are some of the visuals created for the project: To read about the project [Click here][GDACapstoneArt]
 
+Monthwise Rider types Graph:
+![GDACapstoneGraph1](assets/img/GDACapstoneGraph1.jpg)
+
+Weekdaywise Rider types Graph:
+![GDACapstoneGraph2](assets/img/GDACapstoneGraph2.jpg)
 
 | Sr No | Resource Name | Download Link |
 | ------ | ------ | ------ |
@@ -52,6 +57,7 @@ Student Companion is an app that has many features that are useful for students 
 - **Timetable & Holidays**
     - It is very easy to see time table of the whole week in the app. Just touch the hamburger menu (3 horizontal lines at top left corner) or swipe from left edge to right to open Navigation menu and than select timetable and you can see the timetable and select the holidays to see the holidays and details about holidays
 
+
 ## (3) Student Companion Android App (MVVM Based Version)
 
 - Same as "Student Companion Android App" but built from ground up using Room Library and use of ViewModel Library to handle android life cycle data transitions
@@ -63,6 +69,10 @@ Student Companion is an app that has many features that are useful for students 
 
 - Movie Mania is an app that is created with purpose of entertainment in mind.
 - It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
+
+| ![Movie1](assets/img/movie_mania_1.png) | ![Movie2](assets/img/movie_mania_2.png) |
+| ------ | ------ |
+|![Movie3](assets/img/movie_mania_3.png) | ![Movie4](assets/img/movie_mania_4.png) |
 
 ### (5) XYZ Reader
 
@@ -92,6 +102,14 @@ Solution:
 - My Cookbook is an android app to demonstrate the extraction of information from JSON file located in cloud and handling of various cases like unavailability of full information
 - App also uses the ExoPlayer to buffer and show online video content to user with media controls that can be controlled by the various connected device like earphones, Bluetooth devices etc
 - My Cookbook shows off some of the useful features like PIP Mode, Automatically Full Screen while in landscape mode
+
+![Cookbook1](assets/img/my_cookbook_1.png)
+ 
+![Cookbook2](assets/img/my_cookbook_2.png)
+
+![Cookbook3](assets/img/my_cookbook_3.png)
+
+![Cookbook4](assets/img/my_cookbook_4.png)
 
 ## (8) Other Apps build during Udacity Android Developer Nanodegree
 
