@@ -14,6 +14,9 @@
 - Emphasized data integrity, ensuring that ~94% of records were error-free after cleaning.
 - Final insights aimed at helping the marketing team optimize campaigns and boost conversion rates.
 
+![GDACapstoneGraph1](https://github.com/PranavVyas/portfolio/tree/main/assets/img/GDACapstoneGtaph1.jpg)
+
+
 | Sr No | Resource Name | Download Link |
 | ------ | ------ | ------ |
 | 1 | Datasets | [Click here][GDACapstoneDsetOrg] |
@@ -107,12 +110,12 @@ Solution:
 
 - Tic Tac Toe is a game which is played by two players, which is a very old game and here it is my best try to create the same game in Java as well as C language!!
 
-[GDACapstoneDsetOrg]: <https://github.com/joemccann/dillinger/tree/master/plugins/dropbox/README.md>
-[GDACapstoneDsetClnd]: <https://github.com/joemccann/dillinger/tree/master/plugins/github/README.md>
-[GDACapstoneViz]: <https://github.com/joemccann/dillinger/tree/master/plugins/googledrive/README.md>
-[GDACapstonePPT]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-[GDACapstoneRpt]: <https://github.com/joemccann/dillinger/tree/master/plugins/medium/README.md>
-[GDACapstoneArt]: <https://medium.com/@pranav.vyas.99/a-beginners-guide-to-google-data-analytics-capstone-project-how-does-a-bike-share-navigate-speedy-f4a04f701d4a>
+[GDACapstoneDsetOrg]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Original>
+[GDACapstoneDsetClnd]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Cleaned>
+[GDACapstoneViz]: <https://github.com/PranavVyas/GDACapstone/tree/main/Viz>
+[GDACapstonePPT]: <https://github.com/PranavVyas/GDACapstone/tree/main/Presentation>
+[GDACapstoneRpt]: <https://github.com/PranavVyas/GDACapstone/tree/main/Report>
+[GDACapstoneArt]: https://medium.com/@pranav.vyas.99/a-beginners-guide-to-google-data-analytics-capstone-project-how-does-a-bike-share-navigate-speedy-f4a04f701d4a
 [MovieManaiaGitHubLink]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 [ProfileGithub]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 [ProfileLinkedIn]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
