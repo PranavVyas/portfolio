@@ -4,6 +4,58 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <style>
+
+        body {
+            font-family: sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background-color: #f0f0f0;
+            margin: 0;
+        }
+
+        .container-ppp {
+            background-color: #fff;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0,
+ 0.1);
+            text-align: center;
+        }
+
+        .profile-photo {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            object-fit: cover;
+            margin-bottom: 20px;
+        }
+
+        h1 {
+            margin: 0 0 10px 0;
+            font-size: 2.5rem;
+        }
+
+        p {
+            font-size: 1.2rem;
+            color: #555;
+            margin-bottom: 20px;
+        }
+
+        .social-links a {
+            display: inline-block;
+            margin: 0 10px;
+            font-size: 1.8rem;
+            color: #333;
+            transition: color 0.2s;
+        }
+
+        .social-links a:hover {
+            color: #555;
+        }
+    </style>
 
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
@@ -34,21 +86,18 @@
         {% if site.show_downloads %}
        <!-- <ul class="downloads"> -->
   <ul class="social-links">
-    <button onclick="window.open('https://www.linkedin.com/in/pranav-vyas-5a435b209', '_blank')" rel="noopener noreferrer" aria-label="LinkedIn">
-  <i class="fab fa-linkedin"></i> LinkedIn
-</button>
-<button onclick="window.open('https://github.com/pranavvyas', '_blank')" rel="noopener noreferrer" aria-label="GitHub">
-  <i class="fab fa-github"></i> GitHub
-</button>
-<button onclick="window.open('mailto:pranavvyas2000@gmail.com', '_blank')" rel="noopener noreferrer" aria-label="Email">
-  <i class="fas fa-envelope"></i> Email
-</button>
-<button onclick="window.open('https://www.kaggle.com/pranavvyas', '_blank')" rel="noopener noreferrer" aria-label="Kaggle">
-  <i class="fab fa-kaggle"></i> Kaggle
-</button>
-<button onclick="window.open('https://medium.com/@pranavvyas', '_blank')" rel="noopener noreferrer" aria-label="Medium">
-  <i class="fab fa-medium"></i> Medium
-</button>
+
+    <div class="container-ppp>
+        
+        <img src="profile-photo.jpg" alt="Your Name" class="profile-photo"> 
+                <h1>Your Name</h1>
+                <p>Aspiring entry level data analyst</p> 
+                <div class="social-links">
+                    <a href="https://github.com/your-username" target="_blank"><i class="fab fa-github"></i></a>
+                    <a href="https://linkedin.com/in/your-username" target="_blank"><i class="fab fa-linkedin"></i></a>
+                    <a href="https://twitter.com/your-username" target="_blank"><i class="fab fa-twitter"></i></a>
+                    </div>
+            </div>
 
   </ul>
 <!-- </ul> -->
@@ -72,4 +121,5 @@ DSE0Ga+ri4AuTroPR5aQvXU9xC6qOPnzFeg==" crossorigin="anonymous" referrerpolicy="n
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
   </body>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
 </html>
