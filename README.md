@@ -36,12 +36,50 @@ Weekdaywise Rider types Graph:
 | 6 | Explaination Article | [Click here][GDACapstoneArt] |
 | 7 | GitHub Link | [Click here][GDACapstoneGitHub] |
 
+## (2) CCTV Monitering Dashboard
+
+### Background:
+
+- I started this project as a self initiative. I was incharge of CCTV monitering data (There was practise of HODs oberving cctv cameras and seding theirobservations via email to me, I then kept record in local excel file). This became hard to maintain as SHs are also involved later, which increased observer numbers and thus mails.
+- So, I created microsoft power app to get details from HODs and SHs
+- I have taken feedback from my stackholders (VP-Production, VP-Engineering, DH-Safety, LH-Technical Services) for details required to be filled in form (I had to read every observation and put in different 9 categories, now i have added this in form so manual reading of observation is also avoided)
+- After I received enough data, I started with making dashboard in PowerBI. I deveoped dashboard and deployed on company server. This gave us what are most observed violations and helped by creating action plan for reduction
+
+### Overview
+
+- Data collection from section heads and above about observation done through CCTV of unsafe act
+- Designed database, identified requirements and created forms for online data collection accessible from Phone or Web browser
+- Categorized in 9 different categories and generate recommendations based on observations
+- Report format made after discussion of stakeholders and shared on weekly basis
+- Made insightful dashboard in PowerBI to see and moniter KPIs
+
+### Screenshots
+
+Here are some of the screen shots of dashboard:
+
+Xoxoxox:
+![GDACapstoneGraph1](assets/img/GDACapstoneGraph1.jpg)
+
+XoxoX:
+![GDACapstoneGraph2](assets/img/GDACapstoneGraph2.jpg)
+
+### Download Links
+
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | Continued since August,2024 |
+| 2 | Status | Not completed |
+| 3 | Update | Updated as required |
+| 4 | GitHub Link | [Click here][CCTVGitHub] |
+
 ## (2) Student Companion Android App
 
 > I started this app as a Capstone Project of Udacity's Android Developer Nanodegree, but continoued to develop and add features to it untill 2019. This project is not maintained by me now. Here is description of app:
 
 Student Companion is an app that has many features that are useful for students in school, High School or college.
+
 ### Features
+
 - **Attendance Manager**
     - Manages attendance and reminds you to fill attendance, This can be useful to see the regularity of student or in some colleges with minimum attendance criteria.
     - Overall attendace summary can be seen for each subject by going to Overall Attendance Manager
@@ -61,7 +99,9 @@ Student Companion is an app that has many features that are useful for students 
     - By Enabling the dark mode in the settings page you can use dark mode. Why us there Dark Mode ? Well It saves some battery on AMOLED Screens and main reason is It looks Cool 
 - **Timetable & Holidays**
     - It is very easy to see time table of the whole week in the app. Just touch the hamburger menu (3 horizontal lines at top left corner) or swipe from left edge to right to open Navigation menu and than select timetable and you can see the timetable and select the holidays to see the holidays and details about holidays
+
 ### Screenshots
+
 | Student Companion |
 | ------ |
 | ![StudentC1](assets/img/student_comp_1.png) |
@@ -71,6 +111,7 @@ Student Companion is an app that has many features that are useful for students 
 | ![StudentC5](assets/img/student_comp_5.png) |
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
 | 1 | Project End Date | January, 2019|
@@ -85,6 +126,7 @@ Student Companion is an app that has many features that are useful for students 
 > This project is not maintained now, This was made as part of learning and development for MVVM architecture
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
 | 1 | Project End Date | November, 2019|
@@ -93,17 +135,20 @@ Student Companion is an app that has many features that are useful for students 
 | 4 | GitHub Link | [Click here][SCMVVMGitHub] |
 
 ## (4) Movie Mania
+
 > I created this app to learn about Room database and how to use API to fetch data. I created this app while I was learning android development from Udacity. This app is not maintained now. Feel free to checkout the source code and fork it and update it to your liking.
 
 - Movie Mania is an app that is created with purpose of entertainment in mind.
 - It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
 
 ### Screenshots
+
 | ![Movie1](assets/img/movie_mania_1.png) | ![Movie2](assets/img/movie_mania_2.png) |
 | ------ | ------ |
 |![Movie3](assets/img/movie_mania_3.png) | ![Movie4](assets/img/movie_mania_4.png) |
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
 | 1 | Project End Date | October, 2018|
@@ -120,6 +165,7 @@ Student Companion is an app that has many features that are useful for students 
 - The recycler view does not load all the items at once but recycles the item holders and caches them for further use, in this way the app uses very low memory (compared to normal list view or single text view) to load three articles each being more than 1000 lines from the internet!
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
 | 1 | Project End Date | October, 2018|
@@ -131,10 +177,10 @@ Student Companion is an app that has many features that are useful for students 
 
 > EasyEdu is app made in DotSlash 2.0 hackathon. We were two people team (**Team[0]** - Pranav Vyas, Tirth Patel), I focused on coding and my partner in creating visuals, wireframes etc. We made this app in 26 hours, so this might be looking like unfinished app, but functionally this is working fully
 
-Problem Statement: 
+**Problem Statement:** 
 - The country has always been striving to get education to the commons in the most lucrative way possible. Educational resources and measures to improve its discourse comes under the category.
 
-Solution:
+**Solution:**
 - A platform for University Students to share Documents such as Exam Papers and Study Material.
 - Users can Upload/Download Documents shared by Users.
 - Users can follow subjects, semesters and branches to receive updates when a new document is uploaded for that subject/semester/branch.
@@ -148,6 +194,7 @@ Solution:
 |![EasyEdu5](assets/img/easy_edu_5.png) | ![EasyEdu6](assets/img/easy_edu_6.png) |
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
 | 1 | Project End Date | February , 2019|
@@ -172,6 +219,7 @@ Solution:
 ![Cookbook4](assets/img/my_cookbook_4.png)
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
 | 1 | Project End Date | August, 2018|
@@ -184,6 +232,7 @@ Solution:
 ## (9) Tic Tac Toe for Andoid
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
 | 1 | Project End Date | July, 2017|
@@ -193,28 +242,39 @@ Solution:
 
 ## (10) ProHotspot v2
 
+### Details
+
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | 2017 |
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][PHSV2GitHub] |
+
 ## (11) Tic Tac Toe (Java GUI Version)
 
->This is my first app made in Java GUI for practising and learning concepts. I used GUI elements for making this app
+> This is my first app made in Java GUI for practising and learning concepts. I used GUI elements for making this app
 
 - Tic Tac Toe is a game which is played by two players, which is a very old game and here it is my best try to create the same game in Java language!!
 
 ### Screenshots
 
-|<p align="center"><img src="assets/img/tic_tac_toe_java_1.png" alt="TTTJ1"></p>|
-| :-----: |
-|<p align="center"><img src="assets/img/tic_tac_toe_java_2.png" alt="TTTJ2"></p>|
-|<p align="center"><img src="assets/img/tic_tac_toe_java_3.png" alt="TTTJ3"></p>|
+| <p align="center"><img src="assets/img/tic_tac_toe_java_1.png" alt="TTTJ1"></p> |
+| ----- |
+| <p align="center"><img src="assets/img/tic_tac_toe_java_2.png" alt="TTTJ2"></p> |
+| <p align="center"><img src="assets/img/tic_tac_toe_java_3.png" alt="TTTJ3"></p> |
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
-| 1 | Project End Date | September, 2024|
+| 1 | Project End Date | 2016 |
 | 2 | Status | Completed |
 | 3 | Update | Not maintained |
-| 4 | GitHub Link | [Click here][GDACapstoneArt] |
+| 4 | GitHub Link | [Click here][TTTJavaGitHub] |
 
 ## (12) Tic Tac Toe (C Language Version)
+
 > This is my first every venture to programming and making "app" from coding
 
 - Tic Tac Toe is a game which is played by two players, which is a very old game and here it is my best try to create the same game in Java as well as C language!!
@@ -228,12 +288,13 @@ Solution:
 | ![TTTC3](assets/img/tic_tac_toe_c_1.png) |
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
-| 1 | Project End Date | September, 2024|
+| 1 | Project End Date | 2014 |
 | 2 | Status | Completed |
 | 3 | Update | Not maintained |
-| 4 | GitHub Link | [Click here][GDACapstoneArt] |
+| 4 | GitHub Link | [Click here][TTTCGitHub] |
 
 ## (13) PAI
 
@@ -254,12 +315,13 @@ Solution:
 | ![PAI3](assets/img/pai_3.png) |
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
-| 1 | Project End Date | September, 2024|
+| 1 | Project End Date | 2014 |
 | 2 | Status | Completed |
 | 3 | Update | Not maintained |
-| 4 | GitHub Link | [Click here][GDACapstoneArt] |
+| 4 | GitHub Link | [Click here][PAIGitHub] |
 
 ## (14) PKV website
 
@@ -268,12 +330,13 @@ Solution:
 This is a HTML file, in which programming is done for with IF ELSE.
 
 ### Details
+
 | Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
-| 1 | Project End Date | September, 2024|
+| 1 | Project End Date | 2013 |
 | 2 | Status | Completed |
 | 3 | Update | Not maintained |
-| 4 | GitHub Link | [Click here][GDACapstoneArt] |
+| 4 | GitHub Link | [Click here][PKVGitHub] |
 
 [GDACapstoneDsetOrg]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Original>
 [GDACapstoneDsetClnd]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Cleaned>
@@ -293,9 +356,10 @@ This is a HTML file, in which programming is done for with IF ELSE.
 [CCTVGitHub]: <https://github.com/PranavVyas/StudentCompanion>
 [XYZRGitHub]: <https://github.com/PranavVyas/XYZ-Reader>
 [MCBGitHub]: <https://github.com/PranavVyas/MyCookBook>
-[PAIGitHub]: <https://github.com/PranavVyas/StudentCompanion>
-[PKVGitHub]: <https://github.com/PranavVyas/StudentCompanion>
-[TTTJavaGitHub]: <https://github.com/PranavVyas/StudentCompanion>
-[TTTCGitHub]: <https://github.com/PranavVyas/StudentCompanion>
+[PAIGitHub]: <https://github.com/PranavVyas/PAI>
+[PKVGitHub]: <https://github.com/PranavVyas/PKVWebsite>
+[TTTJavaGitHub]: <https://github.com/PranavVyas/TicTacToe_Java>
+[TTTCGitHub]: <https://github.com/PranavVyas/Tic-Tac-Toe>
 [TTTAndroidGitHub]: <https://github.com/PranavVyas/TIcTacToeForAndroid>
 [EEGitHub]: <https://github.com/PranavVyas/DotSlash>
+[PHSV2GitHub]: <https://github.com/PranavVyas/DotSlash>
