@@ -72,7 +72,7 @@ XoxoX:
 | 3 | Update | Updated as required |
 | 4 | GitHub Link | [Click here][CCTVGitHub] |
 
-## (2) Student Companion Android App
+## (3) Student Companion Android App
 
 > I started this app as a Capstone Project of Udacity's Android Developer Nanodegree, but continoued to develop and add features to it untill 2019. This project is not maintained by me now. Here is description of app:
 
@@ -119,7 +119,7 @@ Student Companion is an app that has many features that are useful for students 
 | 3 | Update | Not maintained |
 | 4 | GitHub Link | [Click here][SCGitHub] |
 
-## (3) Student Companion Android App (MVVM Based Version)
+## (4) Student Companion Android App (MVVM Based Version)
 
 - Same as "Student Companion Android App" but built from ground up using Room Library and use of ViewModel Library to handle android life cycle data transitions
 
@@ -134,7 +134,7 @@ Student Companion is an app that has many features that are useful for students 
 | 3 | Update | Not maintained |
 | 4 | GitHub Link | [Click here][SCMVVMGitHub] |
 
-## (4) Movie Mania
+## (5) Movie Mania
 
 > I created this app to learn about Room database and how to use API to fetch data. I created this app while I was learning android development from Udacity. This app is not maintained now. Feel free to checkout the source code and fork it and update it to your liking.
 
@@ -156,7 +156,7 @@ Student Companion is an app that has many features that are useful for students 
 | 3 | Update | Not maintained |
 | 4 | GitHub Link | [Click here][MMGitHub] |
 
-### (5) XYZ Reader
+### (6) XYZ Reader
 
 > XYZ is a project done under Udacity Nanodegree Projects and redesigned app from the original app given by Udacity in the Nanodegree
 
@@ -173,7 +173,7 @@ Student Companion is an app that has many features that are useful for students 
 | 3 | Update | Not maintained |
 | 4 | GitHub Link | [Click here][XYZRGitHub] |
 
-## (6) EasyEdu
+## (7) EasyEdu
 
 > EasyEdu is app made in DotSlash 2.0 hackathon. We were two people team (**Team[0]** - Pranav Vyas, Tirth Patel), I focused on coding and my partner in creating visuals, wireframes etc. We made this app in 26 hours, so this might be looking like unfinished app, but functionally this is working fully
 
@@ -202,7 +202,7 @@ Student Companion is an app that has many features that are useful for students 
 | 3 | Update | Not maintained |
 | 4 | GitHub Link | [Click here][EEGitHub] |
 
-## (7) My Cook Book
+## (8) My Cook Book
 
 > My Cook Book is a project done under Udacity Nanodegree Projects. This project is not maitained by me anymore.
 
@@ -227,7 +227,9 @@ Student Companion is an app that has many features that are useful for students 
 | 3 | Update | Not maintained |
 | 4 | GitHub Link | [Click here][MCBGitHub] |
 
-## (8) Other Apps build during Udacity Android Developer Nanodegree
+## Other Projects
+
+> Other projects I have developed during Udacity Android Developer nanodegree, College and School time during extra time as a side projects. I have always been curious of something I have learnt that can be used to create something that is useful and unique. so, I always try to create something to implement core concepts I have learnt. After all, when we implement something we learn, we also find some of the unexpected challenges
 
 ## (9) Tic Tac Toe for Andoid
 
