@@ -2,7 +2,7 @@
 
 ## (1) Google Data Analytics Capstone Project
 
-[![Click here for article](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)][GDACapstoneArt]
+> I started this case study as a Capstone Project of Google Data analytics Proffesional Certificate.
 
 ### Overview
 
@@ -11,7 +11,7 @@
 - Used SQL, BigQuery, and PowerBI for data cleaning, analysis, and visualization.
 - Identified patterns in rider behavior, such as ride times and locations.
 - Provided actionable marketing recommendations to increase annual memberships.
-- Emphasized data integrity, ensuring that ~94% of records were error-free after cleaning.
+- Emphasized data integrity, ensuring that records were error-free after cleaning.
 - Final insights aimed at helping the marketing team optimize campaigns and boost conversion rates.
 
 ### Screenshots
@@ -26,14 +26,15 @@ Weekdaywise Rider types Graph:
 
 ### Download Links
 
-| Sr No | Resource Name | Download Link |
+| Sr No |  Perticular | Detail |
 | ------ | ------ | ------ |
-| 1 | Datasets | [Click here][GDACapstoneDsetOrg] |
-| 2 | Cleaned Dataset | [Click here][GDACapstoneDsetClnd] |
-| 3 | PowerBI file | [Click here][GDACapstoneViz] |
+| 1 | Project End Date | September, 2024|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
 | 4 | Microsoft PPT | [Click here][GDACapstonePPT] |
 | 5 | Report PDF | [Click here][GDACapstoneRpt] |
 | 6 | Explaination Article | [Click here][GDACapstoneArt] |
+| 7 | GitHub Link | [Click here][GDACapstoneGitHub] |
 
 ## (2) Student Companion Android App
 
@@ -60,10 +61,7 @@ Student Companion is an app that has many features that are useful for students 
     - By Enabling the dark mode in the settings page you can use dark mode. Why us there Dark Mode ? Well It saves some battery on AMOLED Screens and main reason is It looks Cool 
 - **Timetable & Holidays**
     - It is very easy to see time table of the whole week in the app. Just touch the hamburger menu (3 horizontal lines at top left corner) or swipe from left edge to right to open Navigation menu and than select timetable and you can see the timetable and select the holidays to see the holidays and details about holidays
-
 ### Screenshots
-
-
 | Student Companion |
 | ------ |
 | ![StudentC1](assets/img/student_comp_1.png) |
@@ -72,12 +70,27 @@ Student Companion is an app that has many features that are useful for students 
 | ![StudentC4](assets/img/student_comp_4.png) |
 | ![StudentC5](assets/img/student_comp_5.png) |
 
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | January, 2019|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][SCGitHub] |
 
 ## (3) Student Companion Android App (MVVM Based Version)
 
 - Same as "Student Companion Android App" but built from ground up using Room Library and use of ViewModel Library to handle android life cycle data transitions
 
 > This project is not maintained now, This was made as part of learning and development for MVVM architecture
+
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | November, 2019|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][SCMVVMGitHub] |
 
 ## (4) Movie Mania
 > I created this app to learn about Room database and how to use API to fetch data. I created this app while I was learning android development from Udacity. This app is not maintained now. Feel free to checkout the source code and fork it and update it to your liking.
@@ -86,10 +99,17 @@ Student Companion is an app that has many features that are useful for students 
 - It provides features like Movie Details, Movie list sorted by popularity, IMDB Rating and New Movies Movie Details contains information like Movie trailer linked directly to YouTube and can be shared directly from the app at any time
 
 ### Screenshots
-
 | ![Movie1](assets/img/movie_mania_1.png) | ![Movie2](assets/img/movie_mania_2.png) |
 | ------ | ------ |
 |![Movie3](assets/img/movie_mania_3.png) | ![Movie4](assets/img/movie_mania_4.png) |
+
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | October, 2018|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][MMGitHub] |
 
 ### (5) XYZ Reader
 
@@ -98,6 +118,14 @@ Student Companion is an app that has many features that are useful for students 
 - XYZ reader is feed reader app that uses Material Design Guidelines and new material design components for better UX to show very big articles at once in the app.
 - The app is optimized by using recycler view to load text, in this way app stays efficient in memory and shows very big articles at once.
 - The recycler view does not load all the items at once but recycles the item holders and caches them for further use, in this way the app uses very low memory (compared to normal list view or single text view) to load three articles each being more than 1000 lines from the internet!
+
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | October, 2018|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][XYZRGitHub] |
 
 ## (6) EasyEdu
 
@@ -119,6 +147,14 @@ Solution:
 |![EasyEdu3](assets/img/easy_edu_3.png) | ![EasyEdu4](assets/img/easy_edu_4.png) |
 |![EasyEdu5](assets/img/easy_edu_5.png) | ![EasyEdu6](assets/img/easy_edu_6.png) |
 
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | February , 2019|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][EEGitHub] |
+
 ## (7) My Cook Book
 
 > My Cook Book is a project done under Udacity Nanodegree Projects. This project is not maitained by me anymore.
@@ -135,9 +171,25 @@ Solution:
 
 ![Cookbook4](assets/img/my_cookbook_4.png)
 
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | August, 2018|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][MCBGitHub] |
+
 ## (8) Other Apps build during Udacity Android Developer Nanodegree
 
 ## (9) Tic Tac Toe for Andoid
+
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | July, 2017|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][TTTAndroidGitHub] |
 
 ## (10) ProHotspot v2
 
@@ -154,6 +206,14 @@ Solution:
 |<p align="center"><img src="assets/img/tic_tac_toe_java_2.png" alt="TTTJ2"></p>|
 |<p align="center"><img src="assets/img/tic_tac_toe_java_3.png" alt="TTTJ3"></p>|
 
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | September, 2024|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][GDACapstoneArt] |
+
 ## (12) Tic Tac Toe (C Language Version)
 > This is my first every venture to programming and making "app" from coding
 
@@ -167,6 +227,13 @@ Solution:
 | ![TTTC2](assets/img/tic_tac_toe_c_2.png) |
 | ![TTTC3](assets/img/tic_tac_toe_c_1.png) |
 
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | September, 2024|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][GDACapstoneArt] |
 
 ## (13) PAI
 
@@ -186,11 +253,27 @@ Solution:
 | ![PAI2](assets/img/pai_2.png) |
 | ![PAI3](assets/img/pai_3.png) |
 
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | September, 2024|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][GDACapstoneArt] |
+
 ## (14) PKV website
 
-> Pardon me if the graphics looks old but this was made by me in Microsoft App, I don't remeber exctely now. But it was in 2013 when I coded this website in my schools computer in computer classes. There are many things written in this website which might be looking childish, Because it was made by a child who used this thing called computer for 3-4 months in intervals. I wanted to keep this as is so nothing is changed.
+> If the graphics looks old but this was made by me in Microsoft App, I don't remeber exctely now. But it was in 2013 when I coded this website in my schools computer in computer classes. There are many things written in this website which might be looking childish, Because it was made by a child who used this thing called computer for 3-4 months in intervals. I wanted to keep this as is so nothing is changed.
 
 This is a HTML file, in which programming is done for with IF ELSE.
+
+### Details
+| Sr No |  Perticular | Detail |
+| ------ | ------ | ------ |
+| 1 | Project End Date | September, 2024|
+| 2 | Status | Completed |
+| 3 | Update | Not maintained |
+| 4 | GitHub Link | [Click here][GDACapstoneArt] |
 
 [GDACapstoneDsetOrg]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Original>
 [GDACapstoneDsetClnd]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Cleaned>
@@ -204,4 +287,15 @@ This is a HTML file, in which programming is done for with IF ELSE.
 [ProfileGmail]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 [ProfileKaggle]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
 [ProfileMedium]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
-[StudentCompanionWikiLink]: <https://github.com/joemccann/dillinger/tree/master/plugins/onedrive/README.md>
+[SCGitHub]: <https://github.com/PranavVyas/StudentCompanion>
+[SCMVVMGitHub]: <https://github.com/PranavVyas/StudentCompanionMVVM>
+[MMGitHub]: <https://github.com/PranavVyas/PopularMovies>
+[CCTVGitHub]: <https://github.com/PranavVyas/StudentCompanion>
+[XYZRGitHub]: <https://github.com/PranavVyas/XYZ-Reader>
+[MCBGitHub]: <https://github.com/PranavVyas/MyCookBook>
+[PAIGitHub]: <https://github.com/PranavVyas/StudentCompanion>
+[PKVGitHub]: <https://github.com/PranavVyas/StudentCompanion>
+[TTTJavaGitHub]: <https://github.com/PranavVyas/StudentCompanion>
+[TTTCGitHub]: <https://github.com/PranavVyas/StudentCompanion>
+[TTTAndroidGitHub]: <https://github.com/PranavVyas/TIcTacToeForAndroid>
+[EEGitHub]: <https://github.com/PranavVyas/DotSlash>
