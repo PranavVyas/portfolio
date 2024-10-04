@@ -14,7 +14,7 @@ Data enthusiast having experience in Project management, data management and dat
 ### (3) Introduction to Power BI
 - Gained practical experience in creating interactive dashboards and reports. Developed skills in data transformation, visualization and connecting various data sources to provide business insights.
 
-- [Click here for certificate, simplilearn android app required from playstore for verfification] (https://simpli.app.link/cwRXeBTppNb)
+- [Click here for certificate, simplilearn android app required from playstore for verfification](https://simpli.app.link/cwRXeBTppNb)
 
 ### (4) Google India Scholarship | Android Developer Nanodegree & Android Associate Developer Certificate
 - Selected in 115 participants nationwide for 6 months Android Developer Nanodegree
@@ -78,13 +78,14 @@ Achieved water saving if 720 m3/day and increased salt recovery by 36 TPD by man
 - Traveling [Instagram] (https://www.instagram.com/pranav.vyas.99/)
 
 ## Achievements:
-- Lead “Team Entropy” in Quality Circle competition to win **State level Gold Medal** and **National level Gold Medal (Par Excellence Award)** (Certificate here)[http;///]
-- Total 6 iApplaud recognition received in excellence in work category (Certificate here)[http;///]
-- GATE 2020 AIR: **1296** (Certificate here)[http;///] ; GATE 2021 AIR: **746** (Certificate here)[http;///]
-- 1st rank in T-Issue in Siphon 2016 (Certificate here)[http;///]
-- Participated **ICPC-2016 and DotSlash Hackathon 2.0** (Certificate here)[http;///]
-- 1st rank in IT Quiz by TCE in 2012 (Certificate here)[http;///] & 2013 (District Level) (Certificate here)[http;///]
-- AIR 7 in “Bhasker Genius Test” by Divya Bhasker (Certificate here)[http;///]
+- Lead “Team Entropy” in Quality Circle competition to win **State level Gold Medal** and **National level Gold Medal (Par Excellence Award)** [Certificate here](https://drive.google.com/file/d/1pqpcwVgqoSmpxf5jXdAYJDukUYHGsvsN/view?usp=sharing)
+- Total 6 iApplaud recognition received in excellence in work category
+- GATE 2020 AIR: **1296** ; GATE 2021 AIR: **746** [Certificate here](https://drive.google.com/file/d/1pdeKT7AEZxlX0ilV52i9CjdZjVD4jUZi/view?usp=sharing)
+- Successfully organized event Backyard science in Pshiphon 3.0 (ChES, SVNIT’s yearly event) 
+- 1st rank in T-Issue in Siphon 2016 (Certificate here)
+- Participated **ICPC-2016 and DotSlash Hackathon 2.0**
+- 1st rank in IT Quiz by TCE in 2012 [Certificate here](https://drive.google.com/file/d/1y70hDfwaPj-VRVuLNXboVB0kFKhLCAOM/view?usp=sharing) & 2013 (District Level) [Certificate here](https://drive.google.com/file/d/1JZ50U41WvzKWBd_ahUQMPTDnOFYZx9yD/view?usp=sharing)
+- AIR 7 in “Bhasker Genius Test” by Divya Bhasker [Certificate here](https://drive.google.com/file/d/1pharK6QnempBnCiX5xYye-boN-jPdDWO/view?usp=sharing)
 - 2nd rank in classical singing (District)
 
 ## Ways to connect with me
