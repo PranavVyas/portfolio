@@ -1,5 +1,7 @@
 # Projects
 
+[link to my ABOUT page](other-pages/about.md)
+
 ## (1) Google Data Analytics Capstone Project
 
 > I started this case study as a Capstone Project of Google Data analytics Proffesional Certificate.
@@ -342,7 +344,7 @@ This is a HTML file, in which programming is done for with IF ELSE.
 
 [GDACapstoneDsetOrg]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Original>
 [GDACapstoneDsetClnd]: <https://github.com/PranavVyas/GDACapstone/tree/main/Databases/Cleaned>
-[GDACapstoneViz]: <https://github.com/PranavVyas/GDACapstone/tree/main/Viz>
+[GDACapstoneGitHub]: <https://github.com/PranavVyas/GDACapstone>
 [GDACapstonePPT]: <https://github.com/PranavVyas/GDACapstone/tree/main/Presentation>
 [GDACapstoneRpt]: <https://github.com/PranavVyas/GDACapstone/tree/main/Report>
 [GDACapstoneArt]: https://medium.com/@pranav.vyas.99/a-beginners-guide-to-google-data-analytics-capstone-project-how-does-a-bike-share-navigate-speedy-f4a04f701d4a
@@ -355,7 +357,7 @@ This is a HTML file, in which programming is done for with IF ELSE.
 [SCGitHub]: <https://github.com/PranavVyas/StudentCompanion>
 [SCMVVMGitHub]: <https://github.com/PranavVyas/StudentCompanionMVVM>
 [MMGitHub]: <https://github.com/PranavVyas/PopularMovies>
-[CCTVGitHub]: <https://github.com/PranavVyas/StudentCompanion>
+[CCTVGitHub]: <https://github.com/PranavVyas/CCTVDashboard>
 [XYZRGitHub]: <https://github.com/PranavVyas/XYZ-Reader>
 [MCBGitHub]: <https://github.com/PranavVyas/MyCookBook>
 [PAIGitHub]: <https://github.com/PranavVyas/PAI>
