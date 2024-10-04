@@ -53,6 +53,11 @@ Data enthusiast having experience in Project management, data management and dat
 
 ## Work Experience
 **(1) Assistant Manager, Unit Technical Cell**
+
+* **From**: January, 2022 to Till date
+* **Location**: Grasim Cellulosic Division, Vilayat, Gujarat
+* **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
+
 - Making and managing database for incidents information and recommendations for IISC. Making and presenting monthly review PPTs for Business IISC and Unit IISC
 - Making daily and monthly reports of Water consumption, Caustic parameters and Performance reports for publishing with stockholders across plants in India, China, Indonesia & Thailand
 - Managing 50+ WBSs’ budgeting having total value of 173 Crore. Helping department in successfully and seamlessly executing improvement and expansion schemes. Keep a close watch on commitment, spent and available budgets
@@ -67,6 +72,11 @@ Achieved water saving if 720 m3/day and increased salt recovery by 36 TPD by man
 - Participated in commissioning team of 14 Million Liters per Day capacity RO Plant
 
 **(2) Graduate Engineer Trainee**
+
+* **From**: January, 2021 to December, 2022
+* **Location**: Steple Fiber Division, Nagda, Madhya Pradesh
+* **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
+
 - Learned about fiber making process from pulp
 - Visited customer units that uses fiber to make cloths to understand in depth process of supply chain
 - Worked in commissioning of India's first VSF Zero Liquid Discharge Plant
