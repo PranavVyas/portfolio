@@ -1,27 +1,32 @@
+# ABOUT ME
+
 ## Who am I?
-Data enthusiast having experience in Project management, data management and data analysis. Recently completed Google Data Analytics professional certificate. Committed to get desired results using strategic planning and fast execution using limited sources.
+Hello Wprld! I am **Pranav Vyas**. I am a Data enthusiast having hands on experience in Project management, Data management and Data analysis. Recently completed Google Data Analytics professional certificate. Committed to get desired results using strategic planning and fast execution using limited sources.
 
 ## Courses & Certificates
 
 ### (1) Google Data Analytics
+
 - Completed extensive 6 months job ready Google Career certification training. Demonstrated hands-on experience with data cleaning, data visualization project management, interpreting and communication data analytics findings. Confidence in transforming complex data into actionable and clear insights. Fluency in computer programming languages and a solid understanding of databases
 - [Click here for certificate](https://coursera.org/share/f5a42af59e5feecfc27a2c0638d9f867)
 
 ### (2) TapRooT© Cause Analysis Training (2 days)
+
 - Learned systematic techniques (SnapCharT©, TapRooT Cause Tree, Causal Factors) for identifying underlying causes of workplace incidents and improving safety and performance.
 - [Click here for certificate](https://drive.google.com/file/d/1hOd6FAYq9KduJw4qELsoE58Bh-ypJEAv/view?usp=sharing)
 
 ### (3) Introduction to Power BI
+
 - Gained practical experience in creating interactive dashboards and reports. Developed skills in data transformation, visualization and connecting various data sources to provide business insights.
 
 - [Click here for certificate, simplilearn android app required from playstore for verfification](https://simpli.app.link/cwRXeBTppNb)
 
 ### (4) Google India Scholarship | Android Developer Nanodegree & Android Associate Developer Certificate
+
 - Selected in 115 participants nationwide for 6 months Android Developer Nanodegree
 - Completed Udacity's Android Nanodegree, gaining proficiency in building scalable, user-friendly Android applications with tools like Java, Android Studio, and Firebase, and implementing core concepts like UI/UX design, app architecture, and database management.
 - Earned the Google Associate Android Developer Certification (Java version), demonstrating proficiency in building, testing, and debugging Android applications. Gained expertise in key Android development concepts including UI design, data storage, app lifecycle, and Java programming.
 - [Click here for certificate](www.udacity.com/certificate/e/f4484d4a-6270-11e8-8ed8-23f39765e586)
-
 
 ## Projects
 ## [Click Here To See All Projects Done By Me](projects.md)
@@ -52,6 +57,7 @@ Data enthusiast having experience in Project management, data management and dat
     - Firebase/Firestore
 
 ## Work Experience
+
 **(1) Assistant Manager, Unit Technical Cell**
 
 * **From**: January, 2022 to Till date
@@ -99,6 +105,11 @@ Achieved water saving if 720 m3/day and increased salt recovery by 36 TPD by man
 - 2nd rank in classical singing (District)
 
 ## Ways to connect with me
+
+- [Gmail : pranavvyas4399@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pranavvyas4399@gmail.com)
+- [GitHub : PranavVyas](https://github.com/PranavVyas)
+- [LinkedIn : Pranav Vyas](https://in.linkedin.com/in/pranav-vyas-51bb4a1a8)
+- [Medium : Pranav Vyas](https://medium.com/@pranav.vyas.99)
 
 <!-- ## (1) Google Data Analytics Capstone Project
 
