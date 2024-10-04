@@ -1,6 +1,6 @@
 # Projects
 
-[Back](README.md)
+## [Back to home page](README.md)
 
 ## (1) Google Data Analytics Capstone Project
 

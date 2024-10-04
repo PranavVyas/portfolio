@@ -1,10 +1,93 @@
-Hello, I am Pranav Vyas!
+## Who am I?
+Data enthusiast having experience in Project management, data management and data analysis. Recently completed Google Data Analytics professional certificate. Committed to get desired results using strategic planning and fast execution using limited sources.
+
+## Courses & Certificates
+
+### (1) Google Data Analytics
+- Completed extensive 6 months job ready Google Career certification training. Demonstrated hands-on experience with data cleaning, data visualization project management, interpreting and communication data analytics findings. Confidence in transforming complex data into actionable and clear insights. Fluency in computer programming languages and a solid understanding of databases
+- [Click here for certificate](https://coursera.org/share/f5a42af59e5feecfc27a2c0638d9f867)
+
+### (2) TapRooT© Cause Analysis Training (2 days)
+- Learned systematic techniques (SnapCharT©, TapRooT Cause Tree, Causal Factors) for identifying underlying causes of workplace incidents and improving safety and performance.
+- [Click here for certificate](https://drive.google.com/file/d/1hOd6FAYq9KduJw4qELsoE58Bh-ypJEAv/view?usp=sharing)
+
+### (3) Introduction to Power BI
+- Gained practical experience in creating interactive dashboards and reports. Developed skills in data transformation, visualization and connecting various data sources to provide business insights.
+
+- [Click here for certificate, simplilearn android app required from playstore for verfification] (https://simpli.app.link/cwRXeBTppNb)
+
+### (4) Google India Scholarship | Android Developer Nanodegree & Android Associate Developer Certificate
+- Selected in 115 participants nationwide for 6 months Android Developer Nanodegree
+- Completed Udacity's Android Nanodegree, gaining proficiency in building scalable, user-friendly Android applications with tools like Java, Android Studio, and Firebase, and implementing core concepts like UI/UX design, app architecture, and database management.
+- Earned the Google Associate Android Developer Certification (Java version), demonstrating proficiency in building, testing, and debugging Android applications. Gained expertise in key Android development concepts including UI design, data storage, app lifecycle, and Java programming.
+- [Click here for certificate](www.udacity.com/certificate/e/f4484d4a-6270-11e8-8ed8-23f39765e586)
 
 
+## Projects
+## [Click Here To See All Projects Done By Me](projects.md)
 
+## Skills
+- Adaptability
+- Leadership
+- Project management
+- Data collection, cleaning  and analysis
+- Database operations
+- Programming languages used:
+    - C
+    - Java
+    - VBA
+    - SQL
+    - R
+- Software used: 
+    - Microsoft Office
+    - BigQuery
+    - Power BI
+    - Tableau
+    - Kaggle
+    - R Studio
+    - Android Studio
+    - ASPEN Process Explorer
+    - MiniTab
+    - GitHub
+    - Firebase/Firestore
 
-# Projects
-# [Click Here To See All Projects Done By Me](projects.md)
+## Work Experience
+**(1) Assistant Manager, Unit Technical Cell**
+- Making and managing database for incidents information and recommendations for IISC. Making and presenting monthly review PPTs for Business IISC and Unit IISC
+- Making daily and monthly reports of Water consumption, Caustic parameters and Performance reports for publishing with stockholders across plants in India, China, Indonesia & Thailand
+- Managing 50+ WBSs’ budgeting having total value of 173 Crore. Helping department in successfully and seamlessly executing improvement and expansion schemes. Keep a close watch on commitment, spent and available budgets
+- Data analysis from Unit Technical Cell side to find out RCAs for major problems happening in process departments
+- New technology development and implementation to increase efficiency and/or reduce COP
+Achieved water saving if 720 m3/day and increased salt recovery by 36 TPD by managing project as Project Owner of Sharplex Filtration System
+- Successfully increased caustic availability from 19 hours to 188 hours by expansion of storage by 4400 m3 by coordinating with contractors and various departments
+- Achieved effluent reduction by 320 m3/day by using Sharplex filtration system in SRU. Developed logic sequences having 14 valves and 96 steps by coordination with other units and vendors
+- Increased sulfur recovery by EDTA effluent acidification Plant by coordination with team and achieving lowest approval to commissioning  time unit
+- Acted as in-charge and ramp up production from 1100 kg/day to 1540 kg/day by establishing workflow and manpower management in Liva Reviva,  Nagda. Optimized logistics workflow to deliver raw material on time to Vilayat
+- Increased hypo availabilty from 19 hours to 59 hours by increasing storage capacity from 60 m3 to 160 m3
+- Participated in commissioning team of 14 Million Liters per Day capacity RO Plant
+
+**(2) Graduate Engineer Trainee**
+- Learned about fiber making process from pulp
+- Visited customer units that uses fiber to make cloths to understand in depth process of supply chain
+- Worked in commissioning of India's first VSF Zero Liquid Discharge Plant
+- Completed Project on optimization of chemicals in Zero Liquid Discharge
+
+## Hobbies:
+- Photography
+- Content Watching
+- Traveling [Instagram] (https://www.instagram.com/pranav.vyas.99/)
+
+## Achievements:
+- Lead “Team Entropy” in Quality Circle competition to win **State level Gold Medal** and **National level Gold Medal (Par Excellence Award)** (Certificate here)[http;///]
+- Total 6 iApplaud recognition received in excellence in work category (Certificate here)[http;///]
+- GATE 2020 AIR: **1296** (Certificate here)[http;///] ; GATE 2021 AIR: **746** (Certificate here)[http;///]
+- 1st rank in T-Issue in Siphon 2016 (Certificate here)[http;///]
+- Participated **ICPC-2016 and DotSlash Hackathon 2.0** (Certificate here)[http;///]
+- 1st rank in IT Quiz by TCE in 2012 (Certificate here)[http;///] & 2013 (District Level) (Certificate here)[http;///]
+- AIR 7 in “Bhasker Genius Test” by Divya Bhasker (Certificate here)[http;///]
+- 2nd rank in classical singing (District)
+
+## Ways to connect with me
 
 <!-- ## (1) Google Data Analytics Capstone Project
 
