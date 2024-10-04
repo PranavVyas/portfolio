@@ -1,12 +1,8 @@
-Hello, I am Pranav Vyas!
-
-
-
-
 # Projects
-# [Click Here To See All Projects Done By Me](projects.md)
 
-<!-- ## (1) Google Data Analytics Capstone Project
+[Back](README.md)
+
+## (1) Google Data Analytics Capstone Project
 
 > I started this case study as a Capstone Project of Google Data analytics Proffesional Certificate.
 
@@ -370,4 +366,4 @@ This is a HTML file, in which programming is done for with IF ELSE.
 [TTTCGitHub]: <https://github.com/PranavVyas/Tic-Tac-Toe>
 [TTTAndroidGitHub]: <https://github.com/PranavVyas/TIcTacToeForAndroid>
 [EEGitHub]: <https://github.com/PranavVyas/DotSlash>
-[PHSV2GitHub]: <https://github.com/PranavVyas/DotSlash> -->
+[PHSV2GitHub]: <https://github.com/PranavVyas/DotSlash>
