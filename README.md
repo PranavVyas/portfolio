@@ -1,7 +1,7 @@
 # ABOUT ME
 
 ## Who am I?
-Hello Wprld! I am **Pranav Vyas**. I am a Data enthusiast having hands on experience in Project management, Data management and Data analysis. Recently completed Google Data Analytics professional certificate. Committed to get desired results using strategic planning and fast execution using limited sources.
+Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experience in Project management, Data management and Data analysis. Recently completed Google Data Analytics professional certificate. Committed to get desired results using strategic planning and fast execution using limited sources.
 
 ## Courses & Certificates
 
@@ -18,7 +18,6 @@ Hello Wprld! I am **Pranav Vyas**. I am a Data enthusiast having hands on experi
 ### (3) Introduction to Power BI
 
 - Gained practical experience in creating interactive dashboards and reports. Developed skills in data transformation, visualization and connecting various data sources to provide business insights.
-
 - [Click here for certificate, simplilearn android app required from playstore for verfification](https://simpli.app.link/cwRXeBTppNb)
 
 ### (4) Google India Scholarship | Android Developer Nanodegree & Android Associate Developer Certificate
@@ -60,9 +59,9 @@ Hello Wprld! I am **Pranav Vyas**. I am a Data enthusiast having hands on experi
 
 **(1) Assistant Manager, Unit Technical Cell**
 
-* **From**: January, 2022 to Till date
-* **Location**: Grasim Cellulosic Division, Vilayat, Gujarat
-* **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
+- **From**: January, 2022 to Till date
+- **Location**: Grasim Cellulosic Division, Vilayat, Gujarat
+- **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
 
 - Making and managing database for incidents information and recommendations for IISC. Making and presenting monthly review PPTs for Business IISC and Unit IISC
 - Making daily and monthly reports of Water consumption, Caustic parameters and Performance reports for publishing with stockholders across plants in India, China, Indonesia & Thailand
@@ -79,9 +78,9 @@ Achieved water saving if 720 m3/day and increased salt recovery by 36 TPD by man
 
 **(2) Graduate Engineer Trainee**
 
-* **From**: January, 2021 to December, 2022
-* **Location**: Steple Fiber Division, Nagda, Madhya Pradesh
-* **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
+- **From**: January, 2021 to December, 2022
+- **Location**: Steple Fiber Division, Nagda, Madhya Pradesh
+- **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
 
 - Learned about fiber making process from pulp
 - Visited customer units that uses fiber to make cloths to understand in depth process of supply chain

@@ -256,11 +256,12 @@ Student Companion is an app that has many features that are useful for students 
 
 ### Screenshots
 
-| <p align="center"><img src="assets/img/prohotspot_3.png" alt="TTTJ1"></p> |
+| Prohotspot v2 |
 | ----- |
-| <p align="center"><img src="assets/img/prohotspot_1.png" alt="TTTJ2"></p> |
-| <p align="center"><img src="assets/img/prohotspot_2.png" alt="TTTJ3"></p> |
-| <p align="center"><img src="assets/img/prohotspot_4.png" alt="TTTJ3"></p> |
+| ![PHS1](assets/img/prohotspot_3.png) |
+| ![PHS2](assets/img/prohotspot_1.PNG) |
+| ![PHS3](assets/img/prohotspot_4.PNG) |
+| ![PHS4](assets/img/prohotspot_2.png) |
 
 ### Details
 
