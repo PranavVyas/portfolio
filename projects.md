@@ -54,16 +54,20 @@ Weekdaywise Rider types Graph:
 - Categorized in 9 different categories and generate recommendations based on observations
 - Report format made after discussion of stakeholders and shared on weekly basis
 - Made insightful dashboard in PowerBI to see and moniter KPIs
+- Any Personal Identification Information (PII) are replaced with placeholders. All other data has been randomised and similarly to original names are nothing more than coincidence.
 
 ### Screenshots
 
 Here are some of the screen shots of dashboard:
 
-Xoxoxox:
-![GDACapstoneGraph1](assets/img/GDACapstoneGraph1.jpg)
-
-XoxoX:
-![GDACapstoneGraph2](assets/img/GDACapstoneGraph2.jpg)
+| CCTV Dashboard & Reports |
+| ------ |
+| ![c1](assets/img/cctv_observation_1.png) |
+| ![C2](assets/img/cctv_observation_2.png) |
+| ![Ch2](assets/img/cctv_observation_3.png) |
+| ![g2](assets/img/cctv_observation_4.png) |
+| ![h2](assets/img/cctv_observation_5.png) |
+| ![i2](assets/img/cctv_observation_6.png) |
 
 ### Download Links
 
