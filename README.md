@@ -63,18 +63,12 @@ Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experien
 - **Location**: Grasim Cellulosic Division, Vilayat, Gujarat
 - **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
 
-- Making and managing database for incidents information and recommendations for IISC. Making and presenting monthly review PPTs for Business IISC and Unit IISC
-- Making daily and monthly reports of Water consumption, Caustic parameters and Performance reports for publishing with stockholders across plants in India, China, Indonesia & Thailand
-- Managing 50+ WBSs’ budgeting having total value of 173 Crore. Helping department in successfully and seamlessly executing improvement and expansion schemes. Keep a close watch on commitment, spent and available budgets
-- Data analysis from Unit Technical Cell side to find out RCAs for major problems happening in process departments
-- New technology development and implementation to increase efficiency and/or reduce COP
-Achieved water saving if 720 m3/day and increased salt recovery by 36 TPD by managing project as Project Owner of Sharplex Filtration System
-- Successfully increased caustic availability from 19 hours to 188 hours by expansion of storage by 4400 m3 by coordinating with contractors and various departments
-- Achieved effluent reduction by 320 m3/day by using Sharplex filtration system in SRU. Developed logic sequences having 14 valves and 96 steps by coordination with other units and vendors
-- Increased sulfur recovery by EDTA effluent acidification Plant by coordination with team and achieving lowest approval to commissioning  time unit
-- Acted as in-charge and ramp up production from 1100 kg/day to 1540 kg/day by establishing workflow and manpower management in Liva Reviva,  Nagda. Optimized logistics workflow to deliver raw material on time to Vilayat
-- Increased hypo availabilty from 19 hours to 59 hours by increasing storage capacity from 60 m3 to 160 m3
-- Participated in commissioning team of 14 Million Liters per Day capacity RO Plant
+- Data analysis from Unit Technical Cell side to do RCAs for major problems happening in departments. Acted as SPOC for CTC regarding Plant 2 data.
+- Data analysed from CCTV observations, shared weekly insights to stockholders for generating recommendations and action plans
+- Managed database for incidents statistics having 50+ incidents and 200+ recommendations. Presented monthly status update PPTs to Business IISC and Unit IISC.
+- Made daily and monthly reports for sharing with stockholders across P&F Businesses to monitor major consumptions
+- Managed 50+ WBSs’ budgeting, total valued at 173 Cr+. Allocated budget to 50+ projects
+- Successfully completed special projects as project coordinator across Vilayat & Nagda.
 
 **(2) Graduate Engineer Trainee**
 
@@ -82,10 +76,8 @@ Achieved water saving if 720 m3/day and increased salt recovery by 36 TPD by man
 - **Location**: Steple Fiber Division, Nagda, Madhya Pradesh
 - **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
 
-- Learned about fiber making process from pulp
-- Visited customer units that uses fiber to make cloths to understand in depth process of supply chain
-- Worked in commissioning of India's first VSF Zero Liquid Discharge Plant
-- Completed Project on optimization of chemicals in Zero Liquid Discharge
+- Gained hands-on knowledge of the fiber-making process from pulp
+- Concluded a project optimizing chemical use in the India’s first Zero Liquid Discharge process.
 
 ## Hobbies:
 - Photography
@@ -107,7 +99,7 @@ Achieved water saving if 720 m3/day and increased salt recovery by 36 TPD by man
 
 - [Gmail : pranavvyas4399@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pranavvyas4399@gmail.com)
 - [GitHub : PranavVyas](https://github.com/PranavVyas)
-- [LinkedIn : Pranav Vyas](https://in.linkedin.com/in/pranav-vyas-51bb4a1a8)
+- [LinkedIn : Pranav Vyas](www.linkedin.com/in/pranavvyas99)
 - [Medium : Pranav Vyas](https://medium.com/@pranav.vyas.99)
 
 <!-- ## (1) Google Data Analytics Capstone Project
