@@ -24,9 +24,7 @@ Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experien
 - Selected in 115 participants nationwide for 6 months Android Developer Nanodegree
 - Completed Udacity's Android Nanodegree, gaining proficiency in building scalable, user-friendly Android applications with tools like Java, Android Studio, and Firebase, and implementing core concepts like UI/UX design, app architecture, and database management.
 - Earned the Google Associate Android Developer Certification (Java version), demonstrating proficiency in building, testing, and debugging Android applications. Gained expertise in key Android development concepts including UI design, data storage, app lifecycle, and Java programming.
-- [Click here for certificate, simplilearn android app required from playstore for verfification](https://simpli.app.link/cwRXeBTppNb)
-- [Click here for certificate](www.udacity.com/certificate/e/f4484d4a-6270-11e8-8ed8-23f39765e586)
-- []()
+- [Click here for certificate](https://www.udacity.com/certificate/e/f4484d4a-6270-11e8-8ed8-23f39765e586)
 
 ## Projects
 ## [Click Here To See All Projects Done By Me](projects.md)
