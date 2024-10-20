@@ -34,9 +34,8 @@ Weekdaywise Rider types Graph:
 | 2 | Status | Completed |
 | 3 | Update | Not maintained |
 | 4 | Microsoft PPT | [Click here][GDACapstonePPT] |
-| 5 | Report PDF | [Click here][GDACapstoneRpt] |
-| 6 | Explaination Article | [Click here][GDACapstoneArt] |
-| 7 | GitHub Link | [Click here][GDACapstoneGitHub] |
+| 5 | Explaination Article | [Click here][GDACapstoneArt] |
+| 6 | GitHub Link | [Click here][GDACapstoneGitHub] |
 
 ## (2) CCTV Monitering Dashboard
 
