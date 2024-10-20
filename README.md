@@ -1,6 +1,5 @@
 # ABOUT ME
 
-## Who am I?
 Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experience in Project management, Data management and Data analysis. Recently completed Google Data Analytics professional certificate. Committed to get desired results using strategic planning and fast execution using limited sources.
 
 ## Courses & Certificates
