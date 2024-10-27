@@ -98,7 +98,7 @@ Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experien
 
 - [Gmail : pranavvyas4399@gmail.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=pranavvyas4399@gmail.com)
 - [GitHub : PranavVyas](https://github.com/PranavVyas)
-- [LinkedIn : Pranav Vyas](www.linkedin.com/in/pranavvyas99)
+- [LinkedIn : Pranav Vyas](https://www.linkedin.com/in/pranavvyas99)
 - [Medium : Pranav Vyas](https://medium.com/@pranav.vyas.99)
 
 <!-- ## (1) Google Data Analytics Capstone Project
