@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Hey there! I am **Pranav Vyas**, a versatile professional with 4 years of experience in data analysis, project coordination, CAPEX Monitoring and Process optimization. Currently serving as Assistant Manager at Aditya Birla Group, I specialize in operational data analysis, root cause analysis, and KPI monitoring using advanced tools like Power BI, SQL and SAP. I have successfully led projects improving compliance, process efficiency, and cost reduction while managing Capex of ₹315 crore. As a certified data analyst with expertise in Power BI, ETL processes, and statistical modeling, I combine technical proficiency with cross-functional collaboration to drive impactful business decisions
+Hey there! I am Pranav Vyas, a versatile professional with 4 years of experience in data analysis, project coordination, CAPEX Monitoring and Process optimization. Currently serving as Assistant Manager at Aditya Birla Group, I specialize in operational data analysis, root cause analysis, and KPI monitoring using advanced tools like Power BI, SQL and SAP. I have successfully led projects improving compliance, process efficiency, and cost reduction while managing Capex of ₹315 crore. As a certified data analyst with expertise in Power BI, ETL processes, and statistical modeling, I combine technical proficiency with cross-functional collaboration to drive impactful business decisions
 
 ## Courses & Certificates
 
