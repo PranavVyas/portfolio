@@ -1,6 +1,6 @@
 # ABOUT ME
 
-Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experience in Project management, Data management and Data analysis. Recently completed Google Data Analytics professional certificate. Committed to get desired results using strategic planning and fast execution using limited sources.
+Hey there! I am **Pranav Vyas**, a versatile professional with 4 years of experience in data analysis, project coordination, CAPEX Monitoring and Process optimization. Currently serving as Assistant Manager at Aditya Birla Group, I specialize in operational data analysis, root cause analysis, and KPI monitoring using advanced tools like Power BI, SQL and SAP. I have successfully led projects improving compliance, process efficiency, and cost reduction while managing Capex of ₹315 crore. As a certified data analyst with expertise in Power BI, ETL processes, and statistical modeling, I combine technical proficiency with cross-functional collaboration to drive impactful business decisions
 
 ## Courses & Certificates
 
@@ -9,7 +9,7 @@ Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experien
 - Completed extensive 6 months job ready Google Career certification training. Demonstrated hands-on experience with data cleaning, data visualization project management, interpreting and communication data analytics findings. Confidence in transforming complex data into actionable and clear insights. Fluency in computer programming languages and a solid understanding of databases
 - [Click here for certificate](https://coursera.org/share/f5a42af59e5feecfc27a2c0638d9f867)
 
-### (2) TapRooT© Cause Analysis Training (2 days)
+### (2) TapRooT© Cause Analysis Training
 
 - Learned systematic techniques (SnapCharT©, TapRooT Cause Tree, Causal Factors) for identifying underlying causes of workplace incidents and improving safety and performance.
 - [Click here for certificate](https://drive.google.com/file/d/1hOd6FAYq9KduJw4qELsoE58Bh-ypJEAv/view?usp=sharing)
@@ -41,6 +41,7 @@ Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experien
     - VBA
     - SQL
     - R
+    - Python
 - Software used: 
     - Microsoft Office
     - BigQuery
@@ -53,6 +54,14 @@ Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experien
     - MiniTab
     - GitHub
     - Firebase/Firestore
+- Major Packages worked with:
+    - Pandas
+    - NumPy
+    - MatPlotLib
+    - Folium
+    - Seaborn
+    - Dash
+    - PyWaffle
 
 ## Work Experience
 
@@ -62,12 +71,13 @@ Hey there! I am **Pranav Vyas**. I am a Data enthusiast having hands on experien
 - **Location**: Grasim Cellulosic Division, Vilayat, Gujarat
 - **Company**: Grasim Industries Pvt Ltd (Aditya Birla Group)
 
-- Data analysis from Unit Technical Cell side to do RCAs for major problems happening in departments. Acted as SPOC for CTC regarding Plant 2 data.
-- Data analysed from CCTV observations, shared weekly insights to stockholders for generating recommendations and action plans
-- Managed database for incidents statistics having 50+ incidents and 200+ recommendations. Presented monthly status update PPTs to Business IISC and Unit IISC.
-- Made daily and monthly reports for sharing with stockholders across P&F Businesses to monitor major consumptions
-- Managed 50+ WBSs’ budgeting, total valued at 173 Cr+. Allocated budget to 50+ projects
-- Successfully completed special projects as project coordinator across Vilayat & Nagda.
+- Analyzed unit-level operational data and performed root cause analysis (RCA) to identify and address key issues in 3 departments to increase profit.
+- Managed a database of 200+ recommendations, driving a 40% improvement in compliance and incident rates.
+- Extraction, Transformation and Compilation of daily and monthly ratios data by using ASPEN, LIMS & SAP to monitor consumption patterns and 30+ KPIs to support data-driven decisions.
+- Acted as SPOC for Capex of FY 25 & FY 26 by managing 280+ schemes totaling ₹ 315 crore+ to align financial resources with organization growth.
+- Successfully completed 8 projects as project coordinator across 2 units having Capex of ₹ 23 Cr.
+- Created Power BI dashboards to monitor CCTV observations reducing reporting time by 2 hours weekly.
+
 
 **(2) Graduate Engineer Trainee**
 
